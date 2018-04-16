@@ -1,0 +1,23 @@
+;
+hello;Hello;
+hi;Hi;
+good morning;Hello;
+good afternoon;Hello;
+good evening;Hello;
+please;What?;
+thank you;Not at all;
+thanks;Not at all;
+excuse me;No problem;
+do you speak english;Yes;
+help;What happened?;
+i need help;What happened?;
+i need a doctor;I do not know how to call a doctor;
+call an ambulance!;I do not know how to call a doctor;
+i've cut myself;Rather, call a doctor;
+i've burnt myself; Rather, call a doctor;
+how are you;Fine;
+who are you;My name is Jim;
+how old are you;I am 5 years old;
+what are you doing;I say;
+who do you work for;I'm a neural network, I'm talking to people;
+hi jim;hi
